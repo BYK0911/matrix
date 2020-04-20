@@ -1,5 +1,5 @@
 {
-  "name": "matrix",
+  "name": "@yukun.bao/matrix",
   "version": "1.0.0",
   "description": "Matrix js lib",
   "main": "index.js",
